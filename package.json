@@ -1,0 +1,11 @@
+{
+  "name": "BootstrapFlask",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/nathanmcguire/BootstrapFlask.git",
+  "author": "Nathan C. McGuire <nathan@ncm.me>",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  }
+}
